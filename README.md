@@ -5,4 +5,7 @@
 - 🎓 &nbsp; Studying Information Technology, Web Programming.
 - 💼 &nbsp; UI and UX designer and Mern stack web developer.
 - 🌱 &nbsp; Enthusiast in Cyber Security and Opensource .
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+- 🌱 I’m currently learning Data structures and Algorithms 
+- 💬 Ask me about front end devlopment !! 
+- 📫 How to reach me: srujangs8@gmail.com 
