@@ -10,7 +10,7 @@
 - 💬 &nbsp; Ask me about front end devlopment !! 
 - 📫 &nbsp; How to reach me: srujangs8@gmail.com 
 
-> :information_source: Check out my projects at srujan.netlify.app
+> :information_source: Check out my projects at  [srujan.netlify.app](https://srujan.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
