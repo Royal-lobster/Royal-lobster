@@ -1,4 +1,4 @@
-<h2> Hello ! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> I am Srujan</h2>
+<h2> Hello !  I am Srujan <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 - 🔭 &nbsp; I’m currently learning Backend Development
 - 🤔 &nbsp; Exploring new technologies and experimenting with various tools hacks.
