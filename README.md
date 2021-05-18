@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **AWS**, **Java**
 - 💬 Ask me about **React, Nextjs, Web development**
 - 📫 How to reach me **srujangs8@gmail.com**
-- 👨‍💻 My Personal Portfolio : [srujangurram.me](srujangurram.me)
+- 👨‍💻 My Personal Portfolio : **[srujangurram.me](srujangurram.me)**
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
