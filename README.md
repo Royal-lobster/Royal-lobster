@@ -13,9 +13,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	Twitter: 
-<a href="https://twitter.com/real_srujan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="real_srujan" height="30" width="40" /></a>
+<a href="https://twitter.com/real_srujan" target="blank"><img align="center" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" alt="real_srujan" height="30" width="40" /></a>
 	Linkedin: 
-<a href="https://linkedin.com/in/srujangurram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="srujangurram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/srujangurram" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png" alt="srujangurram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
