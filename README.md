@@ -1,4 +1,4 @@
-<h2> Hello !  I am Srujan <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hello !  I am Srujan 👋</h2>
 
 - 🎓 &nbsp; Studying Information Technology, Web Programming.
 - 💼 &nbsp; UI and UX designer and Mern stack web developer.
