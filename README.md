@@ -3,10 +3,10 @@
 - 🎓 &nbsp; Studying Information Technology, Web Programming.
 - 💼 &nbsp; UI and UX designer and Mern stack web developer.
 - 🤔 &nbsp; Exploring new technologies and experimenting with various tools hacks.
-- 🔭 I’m currently working on a freelance project (**DataE** - Employee Analytics web application)
-- 🌱 I’m currently learning **AWS**, **Java**
+- 🔭 I’m currently working at Everipedia
+- 🌱 I’m currently learning **Blockchain**, **Cryptography**
 - 💬 Ask me about **React, Nextjs, Web development**
-- 📫 How to reach me **srujangs8@gmail.com**
+- 📫 How to reach me **contact@srujangurram.me**
 - 👨‍💻 My Personal Portfolio : **[srujangurram.me](https://srujangurram.me)**
 - ⚡ Fun fact **I think I am funny**
 
