@@ -1,7 +1,7 @@
 <h2> Hello !  I am Srujan 👋</h2>
 
 - 🎓 &nbsp; Studying Information Technology, Web Programming.
-- 💼 &nbsp; UI and UX designer and Mern stack web developer.
+- 💼 &nbsp; UI and UX designer and Web developer.
 - 🤔 &nbsp; Exploring new technologies and experimenting with various tools hacks.
 - 🔭 I’m currently working at Everipedia
 - 🌱 I’m currently learning **Blockchain**, **Cryptography**
