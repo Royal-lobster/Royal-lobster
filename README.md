@@ -4,7 +4,7 @@
 - 💼 &nbsp; UI and UX designer and Web developer.
 - 🤔 &nbsp; Exploring new technologies and experimenting with various tools hacks.
 - 🔭 I’m currently working at Everipedia
-- 🌱 I’m currently learning **Blockchain**, **Cryptography**
+- 🌱 I’m currently learning **Blockchain**, **Machine Learning**
 - 💬 Ask me about **React, Nextjs, Web development**
 - 📫 How to reach me **contact@srujangurram.me**
 - 👨‍💻 My Personal Portfolio : **[srujangurram.me](https://srujangurram.me)**
