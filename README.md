@@ -1,9 +1,9 @@
 # Hello !  I am Srujan 👋
 
 - 🎓 &nbsp; Studying Information Technology, Web Programming.
-- 💼 &nbsp; UI and UX designer and Web developer.
+- ⭐ &nbsp; Web developer and UI and UX designer.
 - 🤔 &nbsp; Exploring new technologies and experimenting with various tools hacks.
-- 🔭 I’m currently working at Everipedia
+- 💼 I’m currently working at Everipedia
 - 🌱 I’m currently learning **Blockchain**, **Machine Learning**
 - 💬 Ask me about **React, Nextjs, Web development**
 - 📫 How to reach me **contact@srujangurram.me**
