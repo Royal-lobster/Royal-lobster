@@ -11,8 +11,8 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://twitter.com/urban_lobster" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/twitter-44-125621.png" alt="real_srujan" height="20" width="20" /> urban_lobster</a> &nbsp
-<a href="https://linkedin.com/in/srujangurram" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" alt="srujangurram" height="20" width="20" /> srujangurram</a>
+<img align="center" src="https://cdn.iconscout.com/icon/free/png-256/twitter-44-125621.png" alt="real_srujan" height="20" width="20" />&nbsp<a href="https://twitter.com/urban_lobster" target="blank"><b>urban_lobster</b></a> &nbsp&nbsp
+<img align="center" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" alt="srujangurram" height="20" width="20" />&nbsp<a href="https://linkedin.com/in/srujangurram" target="blank"><b>srujangurram</b></a>
 </p>
 
 ### Languages and Tools i Use
