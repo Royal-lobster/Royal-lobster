@@ -11,10 +11,8 @@
 
 ### Connect with me:
 <p align="left">
-	Twitter: 
-<a href="https://twitter.com/real_srujan" target="blank"><img align="center" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" alt="real_srujan" height="40" width="40" /></a>
-	Linkedin: 
-<a href="https://linkedin.com/in/srujangurram" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-42-151143.png" alt="srujangurram" height="40" width="40" /></a>
+<a href="https://twitter.com/urban_lobster" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/twitter-44-125621.png" alt="real_srujan" height="20" width="20" /> urban_lobster</a> &nbsp
+<a href="https://linkedin.com/in/srujangurram" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-160-461814.png" alt="srujangurram" height="20" width="20" /> srujangurram</a>
 </p>
 
 ### Languages and Tools i Use
