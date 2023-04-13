@@ -1,8 +1,8 @@
 # Hello !  I am Srujan 👋
 
-- 🎓 &nbsp; Studying Information Technology, Web Programming.
-- ⭐ &nbsp; Web developer and UI and UX designer.
-- 🤔 &nbsp; Exploring new technologies and experimenting with various tools hacks.
+- 🎓 &nbsp; Studied Information Technology.
+- ⭐ &nbsp; Full stack web developer and UI and UX designer.
+- 🤔 &nbsp; Exploring new technologies and experimenting with various tools and hacks.
 - 💼 I’m currently working at IQ.wiki
 - 🌱 I’m currently learning **Blockchain**, **Machine Learning**
 - 💬 Ask me about **React, Nextjs, Web development**
