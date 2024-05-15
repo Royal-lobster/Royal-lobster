@@ -17,4 +17,4 @@
 
 ### Languages and Tools i Use
 
-![](https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,figma,html,css,emotion,tailwind,mongodb,postgres,py,java,c,r,regex,svelte,wordpress,nodejs,deno,vscode,netlify,heroku,express,graphql,github,git,firebase)
+![](https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,figma,html,css,tailwind,vitest,mongodb,postgres,py,java,c,r,regex,svelte,wordpress,bun,nodejs,deno,vscode,netlify,vercel,heroku,express,graphql,github,git,firebase,discord,ipfs,prisma,linux,supabase,sentry,npm,docker,githubactions)
