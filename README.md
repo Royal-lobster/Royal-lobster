@@ -3,7 +3,7 @@
 - 🎓 &nbsp; Studied Information Technology.
 - ⭐ &nbsp; Full stack web developer and UI and UX designer.
 - 🤔 &nbsp; Exploring new technologies and experimenting with various tools and hacks.
-- 💼 I’m currently working at BrainDAO at day 🌞 and building recalio.com at night 🏙️
+- 💼 I’m currently working at BrainDAO
 - 🌱 I’m currently learning **Blockchain**, **Machine Learning**
 - 💬 Ask me about **React, Nextjs, Web development**
 - 📫 How to reach me **contact@srujangurram.me**
