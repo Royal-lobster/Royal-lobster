@@ -1,38 +1,43 @@
 <svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.5" fill="#333"/>
     </pattern>
   </defs>
 
   <!-- Background -->
-  <rect width="900" height="200" fill="#0d1117"/>
-  <rect width="900" height="200" fill="url(#grid)"/>
+  <rect width="900" height="200" fill="#000"/>
+  <rect width="900" height="200" fill="url(#dots)"/>
 
-  <!-- Accent lines -->
-  <rect x="0" y="0" width="900" height="3" fill="#58a6ff"/>
-  <rect x="0" y="197" width="900" height="3" fill="#58a6ff"/>
-  <rect x="60" y="40" width="4" height="120" fill="#58a6ff"/>
+  <!-- Top accent -->
+  <rect x="0" y="0" width="900" height="2" fill="#fff"/>
+
+  <!-- Left bar -->
+  <rect x="50" y="40" width="3" height="120" fill="#fff"/>
 
   <!-- Name -->
-  <text x="84" y="95" font-family="monospace, 'Courier New'" font-size="48" font-weight="bold" fill="#e6edf3" letter-spacing="2">SRUJAN GURRAM</text>
+  <text x="74" y="90" font-family="'SF Mono', 'Fira Code', monospace" font-size="44" font-weight="bold" fill="#fff" letter-spacing="3">SRUJAN GURRAM</text>
 
   <!-- Tagline -->
-  <text x="84" y="130" font-family="monospace, 'Courier New'" font-size="16" fill="#8b949e" letter-spacing="1">full stack developer · building tools people actually use</text>
+  <text x="74" y="122" font-family="'SF Mono', 'Fira Code', monospace" font-size="15" fill="#888" letter-spacing="1.5">CREATIVE DEVELOPER</text>
 
-  <!-- Terminal prompt decoration -->
-  <text x="84" y="158" font-family="monospace, 'Courier New'" font-size="14" fill="#58a6ff">▸</text>
-  <text x="100" y="158" font-family="monospace, 'Courier New'" font-size="14" fill="#7ee787">srujangurram.me</text>
-  <text x="280" y="158" font-family="monospace, 'Courier New'" font-size="14" fill="#58a6ff">▸</text>
-  <text x="296" y="158" font-family="monospace, 'Courier New'" font-size="14" fill="#7ee787">@urban_lobster</text>
+  <!-- Links row -->
+  <text x="74" y="155" font-family="'SF Mono', 'Fira Code', monospace" font-size="13" fill="#555">srujangurram.me</text>
+  <text x="250" y="155" font-family="'SF Mono', 'Fira Code', monospace" font-size="13" fill="#555">·</text>
+  <text x="270" y="155" font-family="'SF Mono', 'Fira Code', monospace" font-size="13" fill="#555">@urban_lobster</text>
+  <text x="430" y="155" font-family="'SF Mono', 'Fira Code', monospace" font-size="13" fill="#555">·</text>
+  <text x="450" y="155" font-family="'SF Mono', 'Fira Code', monospace" font-size="13" fill="#555">in/srujangurram</text>
 
   <!-- Corner brackets -->
-  <path d="M 20 20 L 20 40" stroke="#58a6ff" stroke-width="2" fill="none"/>
-  <path d="M 20 20 L 40 20" stroke="#58a6ff" stroke-width="2" fill="none"/>
-  <path d="M 880 20 L 880 40" stroke="#58a6ff" stroke-width="2" fill="none"/>
-  <path d="M 880 20 L 860 20" stroke="#58a6ff" stroke-width="2" fill="none"/>
-  <path d="M 20 180 L 20 160" stroke="#58a6ff" stroke-width="2" fill="none"/>
-  <path d="M 20 180 L 40 180" stroke="#58a6ff" stroke-width="2" fill="none"/>
-  <path d="M 880 180 L 880 160" stroke="#58a6ff" stroke-width="2" fill="none"/>
-  <path d="M 880 180 L 860 180" stroke="#58a6ff" stroke-width="2" fill="none"/>
+  <path d="M 20 20 L 20 35" stroke="#fff" stroke-width="1.5" fill="none"/>
+  <path d="M 20 20 L 35 20" stroke="#fff" stroke-width="1.5" fill="none"/>
+  <path d="M 880 20 L 880 35" stroke="#fff" stroke-width="1.5" fill="none"/>
+  <path d="M 880 20 L 865 20" stroke="#fff" stroke-width="1.5" fill="none"/>
+  <path d="M 20 180 L 20 165" stroke="#fff" stroke-width="1.5" fill="none"/>
+  <path d="M 20 180 L 35 180" stroke="#fff" stroke-width="1.5" fill="none"/>
+  <path d="M 880 180 L 880 165" stroke="#fff" stroke-width="1.5" fill="none"/>
+  <path d="M 880 180 L 865 180" stroke="#fff" stroke-width="1.5" fill="none"/>
+
+  <!-- Bottom accent -->
+  <rect x="0" y="198" width="900" height="2" fill="#fff"/>
 </svg>
