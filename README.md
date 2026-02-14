@@ -177,6 +177,18 @@
 
 ---
 
+### ✍️ Latest Blog Posts
+
+<!-- BLOG:START -->
+| Post | Description | Date |
+|------|-------------|------|
+| [Anonymous Votes with Nothing but Math](https://srujangurram.me/blog/anonymous-votes-with-math) | How I built a trustless voting system where no one — not even the organizer — ca... | Feb 14, 2026 |
+| [Why None of My Apps Have a Database](https://srujangurram.me/blog/no-database-apps) | Many of my hobby projects have zero databases — how URLs, browsers, and other pe... | Feb 10, 2026 |
+| [How I Squeezed Drum Beats into URLs](https://srujangurram.me/blog/drum-beats-in-urls) | Fitting an entire drum machine's state into a shareable URL with adaptive arithm... | Feb 09, 2026 |
+<!-- BLOG:END -->
+
+---
+
 <div align="center">
 
 ![](https://skillicons.dev/icons?i=react,nextjs,ts,js,svelte,tailwind,nodejs,bun,deno,python,java,postgres,mongodb,prisma,supabase,firebase,docker,git,linux,figma&perline=10)

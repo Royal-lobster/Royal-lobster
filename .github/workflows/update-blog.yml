@@ -1,0 +1,68 @@
+name: Update Blog Posts
+on:
+  schedule:
+    - cron: '0 */6 * * *' # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch RSS and update README
+        run: |
+          # Fetch RSS feed and extract latest 3 posts
+          curl -sL "https://www.srujangurram.me/feed.xml" -o feed.xml
+          
+          # Parse posts with python
+          python3 << 'EOF'
+          import xml.etree.ElementTree as ET
+          from datetime import datetime
+
+          tree = ET.parse('feed.xml')
+          root = tree.getroot()
+          channel = root.find('channel')
+          items = channel.findall('item')[:3]
+
+          lines = []
+          for item in items:
+              title = item.find('title').text
+              link = item.find('link').text
+              desc = item.find('description').text
+              date = item.find('pubDate').text
+              # Parse date
+              try:
+                  dt = datetime.strptime(date, '%a, %d %b %Y %H:%M:%S %Z')
+                  date_str = dt.strftime('%b %d, %Y')
+              except:
+                  date_str = date
+              lines.append(f'| [{title}]({link}) | {desc[:80]}{"..." if len(desc) > 80 else ""} | {date_str} |')
+
+          blog_section = "| Post | Description | Date |\n|------|-------------|------|\n" + "\n".join(lines)
+
+          # Read README
+          with open('README.md', 'r') as f:
+              content = f.read()
+
+          # Replace blog section
+          start = '<!-- BLOG:START -->'
+          end = '<!-- BLOG:END -->'
+          if start in content and end in content:
+              before = content[:content.index(start) + len(start)]
+              after = content[content.index(end):]
+              content = before + '\n' + blog_section + '\n' + after
+              with open('README.md', 'w') as f:
+                  f.write(content)
+              print('Updated blog section')
+          else:
+              print('Blog markers not found')
+          EOF
+          
+          rm -f feed.xml
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "📝 update latest blog posts" && git push)
