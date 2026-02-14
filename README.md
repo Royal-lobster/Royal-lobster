@@ -19,7 +19,7 @@
 <tr>
 <td width="50%">
 
-**[Syncia](https://github.com/Royal-lobster/Syncia)** ⭐ 95 &nbsp;·&nbsp; [Chrome Web Store](https://chrome.google.com/webstore/detail/syncia-power-of-chatgpt-o/bhdfllifdfodbkihgmahlfmddlmfdjak)
+**[Syncia](https://github.com/Royal-lobster/Syncia)** &nbsp;·&nbsp; [Chrome Web Store](https://chrome.google.com/webstore/detail/syncia-power-of-chatgpt-o/bhdfllifdfodbkihgmahlfmddlmfdjak)
 <br/>Chrome extension — chat with ChatGPT via sidebar on any website
 
 </td>
@@ -33,7 +33,7 @@
 <tr>
 <td>
 
-**[InstallKit](https://github.com/Royal-lobster/InstallKit)** ⭐ 32 &nbsp;·&nbsp; [Live](https://installkit.vercel.app)
+**[InstallKit](https://github.com/Royal-lobster/InstallKit)** &nbsp;·&nbsp; [Live](https://installkit.vercel.app)
 <br/>Select Mac apps → copy brew command → paste in terminal
 
 </td>
@@ -47,13 +47,13 @@
 <tr>
 <td>
 
-**[Covercons](https://github.com/Royal-lobster/Covercons)** ⭐ 26 &nbsp;·&nbsp; [Live](https://covercons.vercel.app)
+**[Covercons](https://github.com/Royal-lobster/Covercons)** &nbsp;·&nbsp; [Live](https://covercons.vercel.app)
 <br/>Generate beautiful cover images with icons
 
 </td>
 <td>
 
-**[Watchlister](https://github.com/Royal-lobster/Watchlister)** ⭐ 23 &nbsp;·&nbsp; [Live](https://watchlister.vercel.app)
+**[Watchlister](https://github.com/Royal-lobster/Watchlister)** &nbsp;·&nbsp; [Live](https://watchlister.vercel.app)
 <br/>Notion-powered watchlist manager
 
 </td>
@@ -66,13 +66,13 @@
 <tr>
 <td width="50%">
 
-**[Notrix](https://github.com/Royal-lobster/Notrix)** ⭐ 11 &nbsp;·&nbsp; [Live](https://notrix.netlify.app)
+**[Notrix](https://github.com/Royal-lobster/Notrix)** &nbsp;·&nbsp; [Live](https://notrix.netlify.app)
 <br/>Browser note-taking application
 
 </td>
 <td width="50%">
 
-**[Copydock](https://github.com/Royal-lobster/Copydock)** ⭐ 7 &nbsp;·&nbsp; [Live](https://copydock.vercel.app)
+**[Copydock](https://github.com/Royal-lobster/Copydock)** &nbsp;·&nbsp; [Live](https://copydock.vercel.app)
 <br/>Paste sharing app
 
 </td>
@@ -86,7 +86,7 @@
 </td>
 <td>
 
-**[Timeswitch](https://github.com/Royal-lobster/Timeswitch)** ⭐ 4 &nbsp;·&nbsp; [Live](https://timeswitch.vercel.app)
+**[Timeswitch](https://github.com/Royal-lobster/Timeswitch)** &nbsp;·&nbsp; [Live](https://timeswitch.vercel.app)
 <br/>Share events across timezones
 
 </td>
@@ -94,7 +94,7 @@
 <tr>
 <td>
 
-**[Mailspread](https://github.com/Royal-lobster/Mailspread)** ⭐ 4 &nbsp;·&nbsp; [Live](https://mailspread.netlify.app)
+**[Mailspread](https://github.com/Royal-lobster/Mailspread)** &nbsp;·&nbsp; [Live](https://mailspread.netlify.app)
 <br/>Generate email templates with forms
 
 </td>
@@ -108,13 +108,13 @@
 <tr>
 <td>
 
-**[Crypto-Pulse](https://github.com/Royal-lobster/Crypto-Pulse)** ⭐ 3 &nbsp;·&nbsp; [Live](https://crypto-currents-nu.vercel.app)
+**[Crypto-Pulse](https://github.com/Royal-lobster/Crypto-Pulse)** &nbsp;·&nbsp; [Live](https://crypto-currents-nu.vercel.app)
 <br/>Crypto dashboard & tracker
 
 </td>
 <td>
 
-**[Bad-Words-Filter](https://github.com/Royal-lobster/Bad-Words-Filter)** ⭐ 3 &nbsp;·&nbsp; [Live](https://badwordsfilter.netlify.app)
+**[Bad-Words-Filter](https://github.com/Royal-lobster/Bad-Words-Filter)** &nbsp;·&nbsp; [Live](https://badwordsfilter.netlify.app)
 <br/>Profanity filter
 
 </td>
@@ -161,7 +161,7 @@
 </td>
 <td width="50%">
 
-**[Respace](https://github.com/Royal-lobster/Respace-Raycast)** ⭐ 2
+**[Respace](https://github.com/Royal-lobster/Respace-Raycast)**
 <br/>Raycast extension — launch apps/folders in bundles
 
 </td>
@@ -169,7 +169,7 @@
 <tr>
 <td>
 
-**[Google-Calendar-Dark](https://github.com/Royal-lobster/Google-Calendar-Dark)** ⭐ 3
+**[Google-Calendar-Dark](https://github.com/Royal-lobster/Google-Calendar-Dark)**
 <br/>Electron Google Calendar with dark mode
 
 </td>
@@ -189,7 +189,7 @@
 </td>
 <td>
 
-**[Appletrun](https://github.com/Royal-lobster/Appletrun)** ⭐ 3
+**[Appletrun](https://github.com/Royal-lobster/Appletrun)**
 <br/>Run Java applets from file
 
 </td>
