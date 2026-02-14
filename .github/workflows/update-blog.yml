@@ -1,7 +1,7 @@
 name: Update Blog Posts
 on:
   schedule:
-    - cron: '0 */6 * * *' # every 6 hours
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,10 +13,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Fetch RSS and update README
         run: |
-          # Fetch RSS feed and extract latest 3 posts
           curl -sL "https://www.srujangurram.me/feed.xml" -o feed.xml
           
-          # Parse posts with python
           python3 << 'EOF'
           import xml.etree.ElementTree as ET
           from datetime import datetime
@@ -24,29 +22,47 @@ jobs:
           tree = ET.parse('feed.xml')
           root = tree.getroot()
           channel = root.find('channel')
-          items = channel.findall('item')[:3]
+          items = channel.findall('item')[:4]
 
-          lines = []
+          posts = []
           for item in items:
               title = item.find('title').text
               link = item.find('link').text
-              desc = item.find('description').text
               date = item.find('pubDate').text
-              # Parse date
+              slug = link.rstrip('/').split('/')[-1]
               try:
                   dt = datetime.strptime(date, '%a, %d %b %Y %H:%M:%S %Z')
                   date_str = dt.strftime('%b %d, %Y')
               except:
                   date_str = date
-              lines.append(f'| [{title}]({link}) | {desc[:80]}{"..." if len(desc) > 80 else ""} | {date_str} |')
+              posts.append((title, link, slug, date_str))
 
-          blog_section = "| Post | Description | Date |\n|------|-------------|------|\n" + "\n".join(lines)
+          # Build 2-column table
+          rows = []
+          for i in range(0, len(posts), 2):
+              cells = []
+              for j in range(2):
+                  if i + j < len(posts):
+                      t, l, s, d = posts[i + j]
+                      cover = f"https://srujangurram.me/blog/{s}/images/cover.png"
+                      cells.append(f'''<td width="50%">
+<a href="{l}">
+<img src="{cover}" width="100%" alt="{t}" />
+</a>
+<br/>
+<strong><a href="{l}">{t}</a></strong>
+<br/>
+<sub>{d}</sub>
+</td>''')
+                  else:
+                      cells.append('<td width="50%"></td>')
+              rows.append('<tr>\n' + '\n'.join(cells) + '\n</tr>')
 
-          # Read README
+          blog_section = '<table>\n' + '\n'.join(rows) + '\n</table>'
+
           with open('README.md', 'r') as f:
               content = f.read()
 
-          # Replace blog section
           start = '<!-- BLOG:START -->'
           end = '<!-- BLOG:END -->'
           if start in content and end in content:
@@ -56,8 +72,6 @@ jobs:
               with open('README.md', 'w') as f:
                   f.write(content)
               print('Updated blog section')
-          else:
-              print('Blog markers not found')
           EOF
           
           rm -f feed.xml

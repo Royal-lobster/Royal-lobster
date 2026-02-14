@@ -180,11 +180,40 @@
 ### ✍️ Latest Blog Posts
 
 <!-- BLOG:START -->
-| Post | Description | Date |
-|------|-------------|------|
-| [Anonymous Votes with Nothing but Math](https://srujangurram.me/blog/anonymous-votes-with-math) | How I built a trustless voting system where no one — not even the organizer — ca... | Feb 14, 2026 |
-| [Why None of My Apps Have a Database](https://srujangurram.me/blog/no-database-apps) | Many of my hobby projects have zero databases — how URLs, browsers, and other pe... | Feb 10, 2026 |
-| [How I Squeezed Drum Beats into URLs](https://srujangurram.me/blog/drum-beats-in-urls) | Fitting an entire drum machine's state into a shareable URL with adaptive arithm... | Feb 09, 2026 |
+<table>
+<tr>
+<td width="50%">
+<a href="https://srujangurram.me/blog/anonymous-votes-with-math">
+<img src="https://srujangurram.me/blog/anonymous-votes-with-math/images/cover.png" width="100%" alt="Anonymous Votes with Nothing but Math" />
+</a>
+<br/>
+<strong><a href="https://srujangurram.me/blog/anonymous-votes-with-math">Anonymous Votes with Nothing but Math</a></strong>
+<br/>
+<sub>Feb 14, 2026</sub>
+</td>
+<td width="50%">
+<a href="https://srujangurram.me/blog/no-database-apps">
+<img src="https://srujangurram.me/blog/no-database-apps/images/cover.png" width="100%" alt="Why None of My Apps Have a Database" />
+</a>
+<br/>
+<strong><a href="https://srujangurram.me/blog/no-database-apps">Why None of My Apps Have a Database</a></strong>
+<br/>
+<sub>Feb 10, 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://srujangurram.me/blog/drum-beats-in-urls">
+<img src="https://srujangurram.me/blog/drum-beats-in-urls/images/cover.png" width="100%" alt="How I Squeezed Drum Beats into URLs" />
+</a>
+<br/>
+<strong><a href="https://srujangurram.me/blog/drum-beats-in-urls">How I Squeezed Drum Beats into URLs</a></strong>
+<br/>
+<sub>Feb 09, 2026</sub>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 <!-- BLOG:END -->
 
 ---
