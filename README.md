@@ -16,10 +16,9 @@
 ### ⚡ Featured
 
 <table>
+<tr><td width="33%"><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td><td width="33%"><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td><td width="33%"><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td></tr>
 <tr>
 <td width="33%">
-
-<img width="300" height="1">
 
 🧩 **[Syncia](https://github.com/Royal-lobster/Syncia)** &nbsp;·&nbsp; [Store](https://chrome.google.com/webstore/detail/syncia-power-of-chatgpt-o/bhdfllifdfodbkihgmahlfmddlmfdjak)
 <br/>Chrome extension — ChatGPT sidebar on any website
@@ -27,15 +26,11 @@
 </td>
 <td width="33%">
 
-<img width="300" height="1">
-
 🗳️ **[BallotZero](https://github.com/Royal-lobster/BallotZero)** &nbsp;·&nbsp; [Live](https://ballot-zero.vercel.app)
 <br/>Trustless elections via DC-net — no backend, no trust
 
 </td>
 <td width="33%">
-
-<img width="300" height="1">
 
 🍺 **[InstallKit](https://github.com/Royal-lobster/InstallKit)** &nbsp;·&nbsp; [Live](https://installkit.vercel.app)
 <br/>Select Mac apps → copy brew command → paste
@@ -67,10 +62,9 @@
 ### 🌐 Web Apps
 
 <table>
+<tr><td width="33%"><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td><td width="33%"><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td><td width="33%"><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td></tr>
 <tr>
 <td width="33%">
-
-<img width="300" height="1">
 
 📝 **[Notrix](https://github.com/Royal-lobster/Notrix)** &nbsp;·&nbsp; [Live](https://notrix.netlify.app)
 <br/>Browser note-taking app
@@ -78,15 +72,11 @@
 </td>
 <td width="33%">
 
-<img width="300" height="1">
-
 📋 **[Copydock](https://github.com/Royal-lobster/Copydock)** &nbsp;·&nbsp; [Live](https://copydock.vercel.app)
 <br/>Paste sharing app
 
 </td>
 <td width="33%">
-
-<img width="300" height="1">
 
 🌍 **[Transedit](https://github.com/Royal-lobster/Transedit)** &nbsp;·&nbsp; [Live](https://transedit.vercel.app)
 <br/>Review locale translations
@@ -133,10 +123,9 @@
 ### 🔗 Web3
 
 <table>
+<tr><td width="33%"><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td><td width="33%"><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td><td width="33%"><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td></tr>
 <tr>
 <td width="33%">
-
-<img width="300" height="1">
 
 📄 **[ChainSheets](https://github.com/Royal-lobster/ChainSheets)**
 <br/>Decentralized academic publishing
@@ -144,15 +133,11 @@
 </td>
 <td width="33%">
 
-<img width="300" height="1">
-
 🎓 **[Student-Records](https://github.com/Royal-lobster/Student-Records-Web3)** &nbsp;·&nbsp; [Live](https://student-records-web3.vercel.app)
 <br/>Student records on blockchain + IPFS
 
 </td>
 <td width="33%">
-
-<img width="300" height="1">
 
 ⚡ **[IQ-Storm](https://github.com/Royal-lobster/IQ-Storm)** &nbsp;·&nbsp; [Live](https://iq-storm.vercel.app)
 <br/>IQ brainstorming tool
@@ -164,10 +149,9 @@
 ### 🖥 Desktop & Tools
 
 <table>
+<tr><td width="33%"><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td><td width="33%"><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td><td width="33%"><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub></td></tr>
 <tr>
 <td width="33%">
-
-<img width="300" height="1">
 
 😴 **[Lidsleep](https://github.com/Royal-lobster/Lidsleep)**
 <br/>macOS auto-sleep on lid close with external display
@@ -175,15 +159,11 @@
 </td>
 <td width="33%">
 
-<img width="300" height="1">
-
 🚀 **[Respace](https://github.com/Royal-lobster/Respace-Raycast)**
 <br/>Raycast extension — launch apps/folders in bundles
 
 </td>
 <td width="33%">
-
-<img width="300" height="1">
 
 🌙 **[Google-Calendar-Dark](https://github.com/Royal-lobster/Google-Calendar-Dark)**
 <br/>Electron Google Calendar with dark mode
