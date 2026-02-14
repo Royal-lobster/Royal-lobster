@@ -1,8 +1,8 @@
 <div align="center">
 
-# Srujan Gurram
+# Hey, I'm Srujan 👋
 
-**Building tools people actually want to use.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Building+tools+people+actually+use;No+backends+%E2%80%94+just+clever+engineering)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/srujangurram.me-000?style=for-the-badge&logo=vercel&logoColor=white)](https://srujangurram.me)
 [![Blog](https://img.shields.io/badge/Blog-000?style=for-the-badge&logo=hashnode&logoColor=white)](https://srujangurram.me/blog)
