@@ -1,43 +1,46 @@
-<svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="220" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="0.5" fill="#333"/>
+    <!-- Matrix-style dot grid -->
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.4" fill="#1a1a1a"/>
     </pattern>
+    <!-- Scanline effect -->
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="rgba(255,255,255,0.008)"/>
+    </pattern>
+    <!-- Vignette -->
+    <radialGradient id="vignette" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="rgba(0,0,0,0)"/>
+      <stop offset="100%" stop-color="rgba(0,0,0,0.5)"/>
+    </radialGradient>
   </defs>
 
-  <!-- Background -->
-  <rect width="900" height="200" fill="#000"/>
-  <rect width="900" height="200" fill="url(#dots)"/>
+  <!-- Pure black background -->
+  <rect width="900" height="220" fill="#0a0a0a"/>
+  <rect width="900" height="220" fill="url(#grid)"/>
+  <rect width="900" height="220" fill="url(#scanlines)"/>
+  <rect width="900" height="220" fill="url(#vignette)"/>
 
-  <!-- Top accent -->
-  <rect x="0" y="0" width="900" height="2" fill="#fff"/>
-
-  <!-- Left bar -->
-  <rect x="50" y="40" width="3" height="120" fill="#fff"/>
+  <!-- Creative Developer badge -->
+  <rect x="60" y="40" width="180" height="28" rx="0" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+  <rect x="60" y="40" width="180" height="28" rx="0" fill="rgba(0,0,0,0.3)"/>
+  <!-- Green dot -->
+  <circle cx="76" cy="54" r="4" fill="#34d399"/>
+  <circle cx="76" cy="54" r="6" fill="none" stroke="#34d399" stroke-width="0.5" opacity="0.4"/>
+  <text x="88" y="58" font-family="'Geist Mono', 'SF Mono', 'Fira Code', monospace" font-size="12" fill="rgba(255,255,255,0.7)" letter-spacing="0.5">Creative Developer</text>
 
   <!-- Name -->
-  <text x="74" y="90" font-family="'SF Mono', 'Fira Code', monospace" font-size="44" font-weight="bold" fill="#fff" letter-spacing="3">SRUJAN GURRAM</text>
+  <text x="60" y="112" font-family="'Geist Mono', 'SF Mono', 'Fira Code', monospace" font-size="48" font-weight="800" fill="#fff" letter-spacing="1">
+    <tspan>Hi, I'm</tspan>
+  </text>
+  <text x="60" y="160" font-family="'Geist Mono', 'SF Mono', 'Fira Code', monospace" font-size="48" font-weight="800" fill="#fff" letter-spacing="1">
+    <tspan>Srujan Gurram</tspan>
+  </text>
 
   <!-- Tagline -->
-  <text x="74" y="122" font-family="'SF Mono', 'Fira Code', monospace" font-size="15" fill="#888" letter-spacing="1.5">CREATIVE DEVELOPER</text>
+  <text x="60" y="190" font-family="'Geist Mono', 'SF Mono', 'Fira Code', monospace" font-size="15" fill="rgba(255,255,255,0.8)" letter-spacing="0.3">Building creative web experiences with code &amp; design.</text>
 
-  <!-- Links row -->
-  <text x="74" y="155" font-family="'SF Mono', 'Fira Code', monospace" font-size="13" fill="#555">srujangurram.me</text>
-  <text x="250" y="155" font-family="'SF Mono', 'Fira Code', monospace" font-size="13" fill="#555">·</text>
-  <text x="270" y="155" font-family="'SF Mono', 'Fira Code', monospace" font-size="13" fill="#555">@urban_lobster</text>
-  <text x="430" y="155" font-family="'SF Mono', 'Fira Code', monospace" font-size="13" fill="#555">·</text>
-  <text x="450" y="155" font-family="'SF Mono', 'Fira Code', monospace" font-size="13" fill="#555">in/srujangurram</text>
-
-  <!-- Corner brackets -->
-  <path d="M 20 20 L 20 35" stroke="#fff" stroke-width="1.5" fill="none"/>
-  <path d="M 20 20 L 35 20" stroke="#fff" stroke-width="1.5" fill="none"/>
-  <path d="M 880 20 L 880 35" stroke="#fff" stroke-width="1.5" fill="none"/>
-  <path d="M 880 20 L 865 20" stroke="#fff" stroke-width="1.5" fill="none"/>
-  <path d="M 20 180 L 20 165" stroke="#fff" stroke-width="1.5" fill="none"/>
-  <path d="M 20 180 L 35 180" stroke="#fff" stroke-width="1.5" fill="none"/>
-  <path d="M 880 180 L 880 165" stroke="#fff" stroke-width="1.5" fill="none"/>
-  <path d="M 880 180 L 865 180" stroke="#fff" stroke-width="1.5" fill="none"/>
-
-  <!-- Bottom accent -->
-  <rect x="0" y="198" width="900" height="2" fill="#fff"/>
+  <!-- Subtle decorative lines -->
+  <line x1="0" y1="0" x2="900" y2="0" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <line x1="0" y1="219" x2="900" y2="219" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
 </svg>
