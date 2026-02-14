@@ -15,7 +15,7 @@
 
 ### ⚡ Featured
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%">
 
@@ -60,7 +60,7 @@
 
 ### 🌐 Web Apps
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%">
 
@@ -120,7 +120,7 @@
 
 ### 🔗 Web3
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%">
 
@@ -145,7 +145,7 @@
 
 ### 🖥 Desktop & Tools
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%">
 
