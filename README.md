@@ -130,7 +130,7 @@
 </td>
 <td width="33%">
 
-🎓 **[Student-Records-Web3](https://github.com/Royal-lobster/Student-Records-Web3)** &nbsp;·&nbsp; [Live](https://student-records-web3.vercel.app)
+🎓 **[Student-Records](https://github.com/Royal-lobster/Student-Records-Web3)** &nbsp;·&nbsp; [Live](https://student-records-web3.vercel.app)
 <br/>Student records on blockchain + IPFS
 
 </td>
