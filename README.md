@@ -17,38 +17,36 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-**[Syncia](https://github.com/Royal-lobster/Syncia)** &nbsp;·&nbsp; [Chrome Web Store](https://chrome.google.com/webstore/detail/syncia-power-of-chatgpt-o/bhdfllifdfodbkihgmahlfmddlmfdjak)
-<br/>Chrome extension — chat with ChatGPT via sidebar on any website
+**[Syncia](https://github.com/Royal-lobster/Syncia)** &nbsp;·&nbsp; [Store](https://chrome.google.com/webstore/detail/syncia-power-of-chatgpt-o/bhdfllifdfodbkihgmahlfmddlmfdjak)
+<br/>Chrome extension — ChatGPT sidebar on any website
 
 </td>
-<td width="50%">
+<td width="33%">
 
 **[BallotZero](https://github.com/Royal-lobster/BallotZero)** &nbsp;·&nbsp; [Live](https://ballot-zero.vercel.app)
-<br/>Trustless elections via DC-net pairwise masking. No backend. No trust required.
+<br/>Trustless elections via DC-net — no backend, no trust
+
+</td>
+<td width="33%">
+
+**[InstallKit](https://github.com/Royal-lobster/InstallKit)** &nbsp;·&nbsp; [Live](https://installkit.vercel.app)
+<br/>Select Mac apps → copy brew command → paste
 
 </td>
 </tr>
 <tr>
-<td>
-
-**[InstallKit](https://github.com/Royal-lobster/InstallKit)** &nbsp;·&nbsp; [Live](https://installkit.vercel.app)
-<br/>Select Mac apps → copy brew command → paste in terminal
-
-</td>
 <td>
 
 **[BeatURL](https://github.com/Royal-lobster/beaturl)** &nbsp;·&nbsp; [Live](https://beaturl.vercel.app)
-<br/>Step sequencer — beats encoded in URLs, no database needed
+<br/>Step sequencer — beats encoded in URLs
 
 </td>
-</tr>
-<tr>
 <td>
 
 **[Covercons](https://github.com/Royal-lobster/Covercons)** &nbsp;·&nbsp; [Live](https://covercons.vercel.app)
-<br/>Generate beautiful cover images with icons
+<br/>Generate cover images with icons
 
 </td>
 <td>
@@ -64,34 +62,32 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 **[Notrix](https://github.com/Royal-lobster/Notrix)** &nbsp;·&nbsp; [Live](https://notrix.netlify.app)
-<br/>Browser note-taking application
+<br/>Browser note-taking app
 
 </td>
-<td width="50%">
+<td width="33%">
 
 **[Copydock](https://github.com/Royal-lobster/Copydock)** &nbsp;·&nbsp; [Live](https://copydock.vercel.app)
 <br/>Paste sharing app
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="33%">
 
 **[Transedit](https://github.com/Royal-lobster/Transedit)** &nbsp;·&nbsp; [Live](https://transedit.vercel.app)
 <br/>Review locale translations
 
 </td>
+</tr>
+<tr>
 <td>
 
 **[Timeswitch](https://github.com/Royal-lobster/Timeswitch)** &nbsp;·&nbsp; [Live](https://timeswitch.vercel.app)
 <br/>Share events across timezones
 
 </td>
-</tr>
-<tr>
 <td>
 
 **[Mailspread](https://github.com/Royal-lobster/Mailspread)** &nbsp;·&nbsp; [Live](https://mailspread.netlify.app)
@@ -118,6 +114,7 @@
 <br/>Profanity filter
 
 </td>
+<td></td>
 </tr>
 </table>
 
@@ -125,27 +122,24 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 **[ChainSheets](https://github.com/Royal-lobster/ChainSheets)**
-<br/>Decentralized academic publishing framework
+<br/>Decentralized academic publishing
 
 </td>
-<td width="50%">
+<td width="33%">
 
 **[Student-Records-Web3](https://github.com/Royal-lobster/Student-Records-Web3)** &nbsp;·&nbsp; [Live](https://student-records-web3.vercel.app)
 <br/>Student records on blockchain + IPFS
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="33%">
 
 **[IQ-Storm](https://github.com/Royal-lobster/IQ-Storm)** &nbsp;·&nbsp; [Live](https://iq-storm.vercel.app)
 <br/>IQ brainstorming tool
 
 </td>
-<td></td>
 </tr>
 </table>
 
@@ -153,34 +147,32 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 **[Lidsleep](https://github.com/Royal-lobster/Lidsleep)**
 <br/>macOS auto-sleep on lid close with external display
 
 </td>
-<td width="50%">
+<td width="33%">
 
 **[Respace](https://github.com/Royal-lobster/Respace-Raycast)**
 <br/>Raycast extension — launch apps/folders in bundles
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="33%">
 
 **[Google-Calendar-Dark](https://github.com/Royal-lobster/Google-Calendar-Dark)**
 <br/>Electron Google Calendar with dark mode
 
 </td>
+</tr>
+<tr>
 <td>
 
 **[Science Facts API](https://github.com/Royal-lobster/science-facts-api)** &nbsp;·&nbsp; [Dataset](https://huggingface.co/datasets/Royal-lobster/100001-Science-Facts)
 <br/>REST API + Telegram bot · 10k+ facts
 
 </td>
-</tr>
-<tr>
 <td>
 
 **[Searchitunes](https://github.com/Royal-lobster/Searchitunes)**
