@@ -1,0 +1,38 @@
+<svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1a1a2e" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="#0d1117"/>
+  <rect width="900" height="200" fill="url(#grid)"/>
+
+  <!-- Accent lines -->
+  <rect x="0" y="0" width="900" height="3" fill="#58a6ff"/>
+  <rect x="0" y="197" width="900" height="3" fill="#58a6ff"/>
+  <rect x="60" y="40" width="4" height="120" fill="#58a6ff"/>
+
+  <!-- Name -->
+  <text x="84" y="95" font-family="monospace, 'Courier New'" font-size="48" font-weight="bold" fill="#e6edf3" letter-spacing="2">SRUJAN GURRAM</text>
+
+  <!-- Tagline -->
+  <text x="84" y="130" font-family="monospace, 'Courier New'" font-size="16" fill="#8b949e" letter-spacing="1">full stack developer · building tools people actually use</text>
+
+  <!-- Terminal prompt decoration -->
+  <text x="84" y="158" font-family="monospace, 'Courier New'" font-size="14" fill="#58a6ff">▸</text>
+  <text x="100" y="158" font-family="monospace, 'Courier New'" font-size="14" fill="#7ee787">srujangurram.me</text>
+  <text x="280" y="158" font-family="monospace, 'Courier New'" font-size="14" fill="#58a6ff">▸</text>
+  <text x="296" y="158" font-family="monospace, 'Courier New'" font-size="14" fill="#7ee787">@urban_lobster</text>
+
+  <!-- Corner brackets -->
+  <path d="M 20 20 L 20 40" stroke="#58a6ff" stroke-width="2" fill="none"/>
+  <path d="M 20 20 L 40 20" stroke="#58a6ff" stroke-width="2" fill="none"/>
+  <path d="M 880 20 L 880 40" stroke="#58a6ff" stroke-width="2" fill="none"/>
+  <path d="M 880 20 L 860 20" stroke="#58a6ff" stroke-width="2" fill="none"/>
+  <path d="M 20 180 L 20 160" stroke="#58a6ff" stroke-width="2" fill="none"/>
+  <path d="M 20 180 L 40 180" stroke="#58a6ff" stroke-width="2" fill="none"/>
+  <path d="M 880 180 L 880 160" stroke="#58a6ff" stroke-width="2" fill="none"/>
+  <path d="M 880 180 L 860 180" stroke="#58a6ff" stroke-width="2" fill="none"/>
+</svg>
