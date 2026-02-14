@@ -1,4 +1,4 @@
-<svg width="900" height="220" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="260" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <!-- Matrix-style dot grid -->
     <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
@@ -16,10 +16,10 @@
   </defs>
 
   <!-- Pure black background -->
-  <rect width="900" height="220" fill="#0a0a0a"/>
-  <rect width="900" height="220" fill="url(#grid)"/>
-  <rect width="900" height="220" fill="url(#scanlines)"/>
-  <rect width="900" height="220" fill="url(#vignette)"/>
+  <rect width="900" height="260" fill="#0a0a0a"/>
+  <rect width="900" height="260" fill="url(#grid)"/>
+  <rect width="900" height="260" fill="url(#scanlines)"/>
+  <rect width="900" height="260" fill="url(#vignette)"/>
 
   <!-- Creative Developer badge -->
   <rect x="60" y="40" width="180" height="28" rx="0" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
@@ -30,17 +30,17 @@
   <text x="88" y="58" font-family="'Geist Mono', 'SF Mono', 'Fira Code', monospace" font-size="12" fill="rgba(255,255,255,0.7)" letter-spacing="0.5">Creative Developer</text>
 
   <!-- Name -->
-  <text x="60" y="112" font-family="'Geist Mono', 'SF Mono', 'Fira Code', monospace" font-size="48" font-weight="800" fill="#fff" letter-spacing="1">
+  <text x="60" y="120" font-family="'Geist Mono', 'SF Mono', 'Fira Code', monospace" font-size="48" font-weight="800" fill="#fff" letter-spacing="1">
     <tspan>Hi, I'm</tspan>
   </text>
-  <text x="60" y="160" font-family="'Geist Mono', 'SF Mono', 'Fira Code', monospace" font-size="48" font-weight="800" fill="#fff" letter-spacing="1">
+  <text x="60" y="175" font-family="'Geist Mono', 'SF Mono', 'Fira Code', monospace" font-size="48" font-weight="800" fill="#fff" letter-spacing="1">
     <tspan>Srujan Gurram</tspan>
   </text>
 
   <!-- Tagline -->
-  <text x="60" y="190" font-family="'Geist Mono', 'SF Mono', 'Fira Code', monospace" font-size="15" fill="rgba(255,255,255,0.8)" letter-spacing="0.3">Building creative web experiences with code &amp; design.</text>
+  <text x="60" y="215" font-family="'Geist Mono', 'SF Mono', 'Fira Code', monospace" font-size="15" fill="rgba(255,255,255,0.8)" letter-spacing="0.3">Building creative web experiences with code &amp; design.</text>
 
   <!-- Subtle decorative lines -->
   <line x1="0" y1="0" x2="900" y2="0" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
-  <line x1="0" y1="219" x2="900" y2="219" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <line x1="0" y1="259" x2="900" y2="259" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
 </svg>
