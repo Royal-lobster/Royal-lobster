@@ -177,10 +177,9 @@
 
 ---
 
-### ✍️ Latest Blog Posts
-
 <!-- BLOG:START -->
 <table>
+<tr><th colspan="2">✍️ Latest Blog Posts</th></tr>
 <tr>
 <td width="50%">
 <a href="https://srujangurram.me/blog/anonymous-votes-with-math">
@@ -211,8 +210,17 @@
 <br/>
 <sub>Feb 09, 2026</sub>
 </td>
-<td width="50%"></td>
+<td width="50%">
+<a href="https://srujangurram.me/blog/clickable-table-rows">
+<img src="https://srujangurram.me/blog/clickable-table-rows/images/cover.png" width="100%" alt="How I Made Table Rows Clickable Without Breaking Buttons" />
+</a>
+<br/>
+<strong><a href="https://srujangurram.me/blog/clickable-table-rows">How I Made Table Rows Clickable Without Breaking Buttons</a></strong>
+<br/>
+<sub>Apr 13, 2025</sub>
+</td>
 </tr>
+<tr><td colspan="2" align="center"><a href="https://srujangurram.me/blog"><strong>📚 More blog articles →</strong></a></td></tr>
 </table>
 <!-- BLOG:END -->
 
