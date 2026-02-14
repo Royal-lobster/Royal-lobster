@@ -13,48 +13,188 @@
 
 ---
 
-#### ⚡ Featured
+### ⚡ Featured
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **[Syncia](https://github.com/Royal-lobster/Syncia)** ⭐95 | Chrome extension — ChatGPT sidebar on any website | [Store](https://chrome.google.com/webstore/detail/syncia-power-of-chatgpt-o/bhdfllifdfodbkihgmahlfmddlmfdjak) |
-| **[InstallKit](https://github.com/Royal-lobster/InstallKit)** ⭐32 | Select Mac apps → copy brew command → paste in terminal | [Live](https://installkit.vercel.app) |
-| **[Covercons](https://github.com/Royal-lobster/Covercons)** ⭐26 | Generate cover images with icons | [Live](https://covercons.vercel.app) |
-| **[Watchlister](https://github.com/Royal-lobster/Watchlister)** ⭐23 | Notion-powered watchlist manager | [Live](https://watchlister.vercel.app) |
-| **[BallotZero](https://github.com/Royal-lobster/BallotZero)** | Trustless elections via DC-net — no backend, no trust | [Live](https://ballot-zero.vercel.app) |
-| **[BeatURL](https://github.com/Royal-lobster/beaturl)** | Step sequencer — beats encoded in URLs | [Live](https://beaturl.vercel.app) |
+<table>
+<tr>
+<td width="50%">
 
-#### 🌐 Web Apps
+**[Syncia](https://github.com/Royal-lobster/Syncia)** ⭐ 95 &nbsp;·&nbsp; [Chrome Web Store](https://chrome.google.com/webstore/detail/syncia-power-of-chatgpt-o/bhdfllifdfodbkihgmahlfmddlmfdjak)
+<br/>Chrome extension — chat with ChatGPT via sidebar on any website
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **[Notrix](https://github.com/Royal-lobster/Notrix)** ⭐11 | Browser note-taking app | [Live](https://notrix.netlify.app) |
-| **[Copydock](https://github.com/Royal-lobster/Copydock)** ⭐7 | Paste sharing app | [Live](https://copydock.vercel.app) |
-| **[Transedit](https://github.com/Royal-lobster/Transedit)** | Review locale translations | [Live](https://transedit.vercel.app) |
-| **[Timeswitch](https://github.com/Royal-lobster/Timeswitch)** ⭐4 | Share events across timezones | [Live](https://timeswitch.vercel.app) |
-| **[Mailspread](https://github.com/Royal-lobster/Mailspread)** ⭐4 | Generate email templates with forms | [Live](https://mailspread.netlify.app) |
-| **[Savanic](https://github.com/Royal-lobster/Savanic)** | Music streaming app (Jio Saavn) | [Live](https://savanic.vercel.app) |
-| **[Crypto-Pulse](https://github.com/Royal-lobster/Crypto-Pulse)** ⭐3 | Crypto dashboard & tracker | [Live](https://crypto-currents-nu.vercel.app) |
-| **[Bad-Words-Filter](https://github.com/Royal-lobster/Bad-Words-Filter)** ⭐3 | Profanity filter | [Live](https://badwordsfilter.netlify.app) |
+</td>
+<td width="50%">
 
-#### 🔗 Web3
+**[BallotZero](https://github.com/Royal-lobster/BallotZero)** &nbsp;·&nbsp; [Live](https://ballot-zero.vercel.app)
+<br/>Trustless elections via DC-net pairwise masking. No backend. No trust required.
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **[ChainSheets](https://github.com/Royal-lobster/ChainSheets)** | Decentralized academic publishing | — |
-| **[Student-Records-Web3](https://github.com/Royal-lobster/Student-Records-Web3)** | Student records on blockchain + IPFS | [Live](https://student-records-web3.vercel.app) |
-| **[IQ-Storm](https://github.com/Royal-lobster/IQ-Storm)** | IQ brainstorming tool | [Live](https://iq-storm.vercel.app) |
+</td>
+</tr>
+<tr>
+<td>
 
-#### 🖥 Desktop & Tools
+**[InstallKit](https://github.com/Royal-lobster/InstallKit)** ⭐ 32 &nbsp;·&nbsp; [Live](https://installkit.vercel.app)
+<br/>Select Mac apps → copy brew command → paste in terminal
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **[Lidsleep](https://github.com/Royal-lobster/Lidsleep)** | macOS auto-sleep on lid close with external display | — |
-| **[Respace](https://github.com/Royal-lobster/Respace-Raycast)** | Raycast extension — launch apps/folders in bundles | — |
-| **[Google-Calendar-Dark](https://github.com/Royal-lobster/Google-Calendar-Dark)** ⭐3 | Electron Google Calendar with dark mode | — |
-| **[Science Facts API](https://github.com/Royal-lobster/science-facts-api)** | REST API + Telegram bot · 10k+ facts | [Dataset](https://huggingface.co/datasets/Royal-lobster/100001-Science-Facts) |
-| **[Searchitunes](https://github.com/Royal-lobster/Searchitunes)** | Song preview app (iTunes API) | — |
-| **[Appletrun](https://github.com/Royal-lobster/Appletrun)** ⭐3 | Run Java applets from file | — |
+</td>
+<td>
+
+**[BeatURL](https://github.com/Royal-lobster/beaturl)** &nbsp;·&nbsp; [Live](https://beaturl.vercel.app)
+<br/>Step sequencer — beats encoded in URLs, no database needed
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Covercons](https://github.com/Royal-lobster/Covercons)** ⭐ 26 &nbsp;·&nbsp; [Live](https://covercons.vercel.app)
+<br/>Generate beautiful cover images with icons
+
+</td>
+<td>
+
+**[Watchlister](https://github.com/Royal-lobster/Watchlister)** ⭐ 23 &nbsp;·&nbsp; [Live](https://watchlister.vercel.app)
+<br/>Notion-powered watchlist manager
+
+</td>
+</tr>
+</table>
+
+### 🌐 Web Apps
+
+<table>
+<tr>
+<td width="50%">
+
+**[Notrix](https://github.com/Royal-lobster/Notrix)** ⭐ 11 &nbsp;·&nbsp; [Live](https://notrix.netlify.app)
+<br/>Browser note-taking application
+
+</td>
+<td width="50%">
+
+**[Copydock](https://github.com/Royal-lobster/Copydock)** ⭐ 7 &nbsp;·&nbsp; [Live](https://copydock.vercel.app)
+<br/>Paste sharing app
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Transedit](https://github.com/Royal-lobster/Transedit)** &nbsp;·&nbsp; [Live](https://transedit.vercel.app)
+<br/>Review locale translations
+
+</td>
+<td>
+
+**[Timeswitch](https://github.com/Royal-lobster/Timeswitch)** ⭐ 4 &nbsp;·&nbsp; [Live](https://timeswitch.vercel.app)
+<br/>Share events across timezones
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Mailspread](https://github.com/Royal-lobster/Mailspread)** ⭐ 4 &nbsp;·&nbsp; [Live](https://mailspread.netlify.app)
+<br/>Generate email templates with forms
+
+</td>
+<td>
+
+**[Savanic](https://github.com/Royal-lobster/Savanic)** &nbsp;·&nbsp; [Live](https://savanic.vercel.app)
+<br/>Music streaming app (Jio Saavn)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Crypto-Pulse](https://github.com/Royal-lobster/Crypto-Pulse)** ⭐ 3 &nbsp;·&nbsp; [Live](https://crypto-currents-nu.vercel.app)
+<br/>Crypto dashboard & tracker
+
+</td>
+<td>
+
+**[Bad-Words-Filter](https://github.com/Royal-lobster/Bad-Words-Filter)** ⭐ 3 &nbsp;·&nbsp; [Live](https://badwordsfilter.netlify.app)
+<br/>Profanity filter
+
+</td>
+</tr>
+</table>
+
+### 🔗 Web3
+
+<table>
+<tr>
+<td width="50%">
+
+**[ChainSheets](https://github.com/Royal-lobster/ChainSheets)**
+<br/>Decentralized academic publishing framework
+
+</td>
+<td width="50%">
+
+**[Student-Records-Web3](https://github.com/Royal-lobster/Student-Records-Web3)** &nbsp;·&nbsp; [Live](https://student-records-web3.vercel.app)
+<br/>Student records on blockchain + IPFS
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[IQ-Storm](https://github.com/Royal-lobster/IQ-Storm)** &nbsp;·&nbsp; [Live](https://iq-storm.vercel.app)
+<br/>IQ brainstorming tool
+
+</td>
+<td></td>
+</tr>
+</table>
+
+### 🖥 Desktop & Tools
+
+<table>
+<tr>
+<td width="50%">
+
+**[Lidsleep](https://github.com/Royal-lobster/Lidsleep)**
+<br/>macOS auto-sleep on lid close with external display
+
+</td>
+<td width="50%">
+
+**[Respace](https://github.com/Royal-lobster/Respace-Raycast)** ⭐ 2
+<br/>Raycast extension — launch apps/folders in bundles
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Google-Calendar-Dark](https://github.com/Royal-lobster/Google-Calendar-Dark)** ⭐ 3
+<br/>Electron Google Calendar with dark mode
+
+</td>
+<td>
+
+**[Science Facts API](https://github.com/Royal-lobster/science-facts-api)** &nbsp;·&nbsp; [Dataset](https://huggingface.co/datasets/Royal-lobster/100001-Science-Facts)
+<br/>REST API + Telegram bot · 10k+ facts
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Searchitunes](https://github.com/Royal-lobster/Searchitunes)**
+<br/>Song preview app (iTunes API)
+
+</td>
+<td>
+
+**[Appletrun](https://github.com/Royal-lobster/Appletrun)** ⭐ 3
+<br/>Run Java applets from file
+
+</td>
+</tr>
+</table>
 
 ---
 
