@@ -50,8 +50,8 @@
 </td>
 <td>
 
-🎬 **[Watchlister](https://github.com/Royal-lobster/Watchlister)** &nbsp;·&nbsp; [Live](https://watchlister.vercel.app)
-<br/>Notion-powered watchlist manager
+🔬 **[StateForge](https://github.com/Royal-lobster/stateforge)** &nbsp;·&nbsp; [Live](https://stateforge.vercel.app)
+<br/>JFLAP for the modern web — build, simulate & share automata in-browser
 
 </td>
 </tr>
@@ -105,11 +105,16 @@
 </td>
 <td>
 
+🎬 **[Watchlister](https://github.com/Royal-lobster/Watchlister)** &nbsp;·&nbsp; [Live](https://watchlister.vercel.app)
+<br/>Notion-powered watchlist manager
+
+</td>
+<td>
+
 🤬 **[Bad-Words-Filter](https://github.com/Royal-lobster/Bad-Words-Filter)** &nbsp;·&nbsp; [Live](https://badwordsfilter.netlify.app)
 <br/>Profanity filter
 
 </td>
-<td></td>
 </tr>
 <tr><th colspan="3">🔗 Web3</th></tr>
 <tr>
@@ -173,6 +178,16 @@
 
 </td>
 </tr>
+<tr>
+<td>
+
+🗣️ **[code-explainer](https://github.com/Royal-lobster/code-explainer)**
+<br/>VS Code extension — AI-powered code walkthroughs with voice narration
+
+</td>
+<td></td>
+<td></td>
+</tr>
 </table>
 
 ---
@@ -182,6 +197,15 @@
 <tr><th colspan="2">✍️ Latest Blog Posts</th></tr>
 <tr>
 <td width="50%">
+<a href="https://srujangurram.me/blog/code-explainer">
+<img src="https://srujangurram.me/blog/code-explainer/images/cover.png" width="100%" alt="How I Made VS Code Explain Code Out Loud" />
+</a>
+<br/>
+<strong><a href="https://srujangurram.me/blog/code-explainer">How I Made VS Code Explain Code Out Loud</a></strong>
+<br/>
+<sub>Mar 08, 2026</sub>
+</td>
+<td width="50%">
 <a href="https://srujangurram.me/blog/anonymous-votes-with-math">
 <img src="https://srujangurram.me/blog/anonymous-votes-with-math/images/cover.png" width="100%" alt="Anonymous Votes with Nothing but Math" />
 </a>
@@ -190,6 +214,8 @@
 <br/>
 <sub>Feb 14, 2026</sub>
 </td>
+</tr>
+<tr>
 <td width="50%">
 <a href="https://srujangurram.me/blog/no-database-apps">
 <img src="https://srujangurram.me/blog/no-database-apps/images/cover.png" width="100%" alt="Why None of My Apps Have a Database" />
@@ -199,8 +225,6 @@
 <br/>
 <sub>Feb 10, 2026</sub>
 </td>
-</tr>
-<tr>
 <td width="50%">
 <a href="https://srujangurram.me/blog/drum-beats-in-urls">
 <img src="https://srujangurram.me/blog/drum-beats-in-urls/images/cover.png" width="100%" alt="How I Squeezed Drum Beats into URLs" />
@@ -209,15 +233,6 @@
 <strong><a href="https://srujangurram.me/blog/drum-beats-in-urls">How I Squeezed Drum Beats into URLs</a></strong>
 <br/>
 <sub>Feb 09, 2026</sub>
-</td>
-<td width="50%">
-<a href="https://srujangurram.me/blog/clickable-table-rows">
-<img src="https://srujangurram.me/blog/clickable-table-rows/images/cover.png" width="100%" alt="How I Made Table Rows Clickable Without Breaking Buttons" />
-</a>
-<br/>
-<strong><a href="https://srujangurram.me/blog/clickable-table-rows">How I Made Table Rows Clickable Without Breaking Buttons</a></strong>
-<br/>
-<sub>Apr 13, 2025</sub>
 </td>
 </tr>
 <tr><td colspan="2" align="center"><a href="https://srujangurram.me/blog"><strong>📚 More blog articles →</strong></a></td></tr>
