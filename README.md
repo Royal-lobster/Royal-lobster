@@ -141,6 +141,12 @@
 <tr>
 <td width="33%">
 
+🗣️ **[code-explainer](https://github.com/Royal-lobster/code-explainer)**
+<br/>VS Code extension — AI walkthroughs with voice
+
+</td>
+<td width="33%">
+
 😴 **[Lidsleep](https://github.com/Royal-lobster/Lidsleep)**
 <br/>macOS auto-sleep on lid close with external display
 
@@ -151,14 +157,14 @@
 <br/>Raycast extension — launch apps/folders in bundles
 
 </td>
-<td width="33%">
+</tr>
+<tr>
+<td>
 
 🌙 **[Google-Calendar-Dark](https://github.com/Royal-lobster/Google-Calendar-Dark)**
 <br/>Electron Google Calendar with dark mode
 
 </td>
-</tr>
-<tr>
 <td>
 
 🔬 **[Science Facts API](https://github.com/Royal-lobster/science-facts-api)** &nbsp;·&nbsp; [Dataset](https://huggingface.co/datasets/Royal-lobster/100001-Science-Facts)
@@ -171,18 +177,12 @@
 <br/>Song preview app (iTunes API)
 
 </td>
-<td>
-
-☕ **[Appletrun](https://github.com/Royal-lobster/Appletrun)**
-<br/>Run Java applets from file
-
-</td>
 </tr>
 <tr>
 <td>
 
-🗣️ **[code-explainer](https://github.com/Royal-lobster/code-explainer)**
-<br/>VS Code extension — AI-powered code walkthroughs with voice narration
+☕ **[Appletrun](https://github.com/Royal-lobster/Appletrun)**
+<br/>Run Java applets from file
 
 </td>
 <td></td>
